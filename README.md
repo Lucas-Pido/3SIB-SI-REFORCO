@@ -1,2 +1,2 @@
 # 3SIB-SI-REFORCO
-Simulação uso GITFLOW
+Simulação uso GITFLOW com hub
